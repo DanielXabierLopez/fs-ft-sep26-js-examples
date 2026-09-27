@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    color:blue;
+}
+
+#important{
+    color: green;
+    background-color: red;
+    width:fit-content;
+}
+
+.cabecera {
+   text-align: center; 
+}
